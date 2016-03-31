@@ -1,0 +1,23 @@
+{
+  "name": "chirpchirp",
+  "version": "1.0.0",
+  "description": "Getting Started Create your own git repository for this exercise. Commit often with meaningful commit messages. Goal Chirp Chirp Chirp Chirp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nat-nat33/Chirp-Chirp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nat-nat33/Chirp-Chirp/issues"
+  },
+  "homepage": "https://github.com/nat-nat33/Chirp-Chirp#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
